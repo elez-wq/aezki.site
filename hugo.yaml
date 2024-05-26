@@ -27,7 +27,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -85,7 +85,7 @@ params:
   editPost:
     URL: "https://github.com/aezki.site/content"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
