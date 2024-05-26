@@ -83,7 +83,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/elez-wq/aezki.site/content"
+    URL: "https://github.com/elez-wq/aezki.site/tree/main/content/posts"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
