@@ -59,7 +59,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Привет \u0985"
-    Content: Добро пожаловатьл на наш проект.
+    Content: Добро пожаловать на мой сайтик.
 
   socialIcons:
     - name: github
