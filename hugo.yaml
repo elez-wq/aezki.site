@@ -103,7 +103,7 @@ menu:
     - identifier: wiki
       name: Вики
       url: https://wiki.aezki.site
-      weight: 20
+      weight: 10
     - identifier: repo
       name: Репозиторий
       url: https://github.com/elez-wq/aezki.site
@@ -111,7 +111,7 @@ menu:
     - identifier: uptime
       name: Аптайм систем
       url: https://uptime.aezki.site/settings/security
-      weight: 20
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
