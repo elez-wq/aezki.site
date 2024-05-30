@@ -61,11 +61,7 @@ params:
 
 menu:
   main:
-    - identifier: wiki
-      name: wiki
-      url: https://wiki.aezki.site/
-      weight: 10
     - identifier: uptime
       name: Работа сервисов
       url: https://up.aezki.site/
-      weight: 20
+      weight: 10
