@@ -15,9 +15,6 @@ minify:
 params:
   title: aezki
   description: "aezki description"
-  keywords: [Блог,Пиво,Дрочильна,Голые сиськи и мужики]
-  author: elez_wq
-  images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2006, January 2"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
