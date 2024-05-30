@@ -1,8 +1,6 @@
 +++
-author = 'elez_wq'
-title = "Установка ArchLinux с нуля"
-date = "2024-05-31T00:45:00+03:00"
-description = ""
+title = 'ArchLinux Install'
+date = 2024-05-31T00:49:38+03:00
 draft = false
 +++
 1 Markup disk efi
