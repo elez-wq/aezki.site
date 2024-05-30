@@ -8,8 +8,6 @@ buildDrafts: true
 buildFuture: false
 buildExpired: false
 
-#googleAnalytics: UA-123-45
-
 minify:
   disableXML: true
   minifyOutput: true
@@ -20,7 +18,6 @@ params:
   description: "aezki description"
   keywords: [Блог,Пиво,Дрочильна,Голые сиськи и мужики]
   author: elez_wq
-  # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2006, January 2"
   defaultTheme: auto # dark, light
@@ -100,14 +97,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: wiki
-      name: Вики
-      url: https://wiki.aezki.site
-      weight: 10
     - identifier: uptime
       name: Работа сервисов
       url: https://up.aezki.site/
-      weight: 20
+      weight: 10
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
