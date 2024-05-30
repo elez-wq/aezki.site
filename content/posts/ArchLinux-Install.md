@@ -1,6 +1,6 @@
 +++
 author = 'elez_wq'
-title = "Привет Мир"
+title = "Установка ArchLinux с нуля"
 date = "2024-05-31T00:45:00+03:00"
 description = ""
 draft = false
