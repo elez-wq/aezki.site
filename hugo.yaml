@@ -110,7 +110,7 @@ menu:
       weight: 20
     - identifier: uptime
       name: Аптайм систем
-      url: https://uptime.aezki.site/settings/security
+      url: https://uptime.aezki.site/status/main
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
