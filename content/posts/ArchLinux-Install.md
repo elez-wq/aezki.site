@@ -1,5 +1,5 @@
 +++
-title = 'ArchLinux Install'
+title = 'Установка ArchLinux с нуля'
 date = 2024-05-31T00:49:38+03:00
 draft = false
 +++
