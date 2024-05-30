@@ -102,14 +102,14 @@ menu:
   main:
     - identifier: wiki
       name: Вики
-      url: /tags/
+      url: https://wiki.aezki.site
       weight: 20
     - identifier: repo
       name: Репозиторий
-      url: /tags/
+      url: https://github.com/elez-wq/aezki.site
       weight: 20
     - identifier: uptime
-      name: System uptime
+      name: Аптайм систем
       url: https://uptime.aezki.site/settings/security
       weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
