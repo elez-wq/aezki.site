@@ -108,6 +108,10 @@ menu:
       name: Репозиторий
       url: /tags/
       weight: 20
+    - identifier: uptime
+      name: System uptime
+      url: https://uptime.aezki.site/settings/security
+      weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
